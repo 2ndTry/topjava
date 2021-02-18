@@ -6,8 +6,6 @@ import java.time.LocalTime;
 
 public class Meal extends AbstractBaseEntity{
 
-    private final Integer userId;
-
     private Integer id;
 
     private final LocalDateTime dateTime;
